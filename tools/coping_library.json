@@ -1,0 +1,133 @@
+{
+  "grounding_exercises": {
+    "5_4_3_2_1": {
+      "name": "5-4-3-2-1 Grounding",
+      "description": "Five sensory grounding exercise",
+      "steps": [
+        "Name 5 things you can SEE around you",
+        "Name 4 things you can HEAR",
+        "Name 3 things you can TOUCH",
+        "Name 2 things you can SMELL",
+        "Name 1 thing you can TASTE"
+      ],
+      "prompt": "Let's try a grounding exercise together:\n\n👁️ Name 5 things you see around you\n👂 Name 4 things you hear\n🖐️ Name 3 things you touch\n👃 Name 2 things you smell\n👅 Name 1 thing you taste\n\nTake your time. What do you notice?"
+    },
+    "progressive_relaxation": {
+      "name": "Progressive Muscle Relaxation",
+      "steps": [
+        "Tense your shoulders tight for 3 seconds... and release",
+        "Tense your fists tight for 3 seconds... and release",
+        "Tense your stomach muscles for 3 seconds... and release",
+        "Tense your legs tight for 3 seconds... and release"
+      ],
+      "prompt": "Let's release tension step by step:\n\n1️⃣ Tense shoulders (3 sec) -> release\n2️⃣ Tense fists (3 sec) -> release\n3️⃣ Tense stomach (3 sec) -> release\n4️⃣ Tense legs (3 sec) -> release\n\nNotice how relaxation feels compared to tension."
+    }
+  },
+  "breathing_exercises": {
+    "box_breathing": {
+      "name": "Box Breathing (4-7-8)",
+      "description": "4-7-8 breathing technique",
+      "steps": [
+        "IN for 4 counts",
+        "Hold for 4 counts",
+        "OUT for 4 counts",
+        "Hold for 4 counts"
+      ],
+      "prompt": "Let's do 4 breaths together:\n\nIN (4 counts)... Hold (4 counts)... OUT (4 counts)... Hold (4 counts)...\n\n📦 Imagine tracing a box as you breathe.\nIn for 4, hold for 4, out for 4, hold for 4.\n\nReady? Let's go again..."
+    }
+  },
+  "cognitive_techniques": {
+    "thought_challenging": {
+      "name": "CBT Thought Challenging",
+      "description": "Evidence-based thought challenging",
+      "steps": [
+        "What's the evidence FOR this thought?",
+        "What's the evidence AGAINST it?",
+        "Is there another way to look at this?",
+        "What would you tell a friend?"
+      ],
+      "prompt": "I hear that thought: '{{thought}}'\n\nLet's look at the evidence together:\n\n✓ What's evidence FOR this thought?\n✓ What's evidence AGAINST it?\n✓ Is there another way to look at this?\n✓ What would you tell a friend who had this thought?\n\nSometimes our minds lie to us. What feels true to you right now?"
+    },
+    "behavioral_activation": {
+      "name": "CBT Behavioral Activation",
+      "description": "Small action to break low mood cycle",
+      "examples": [
+        "Take a 5-minute walk",
+        "Message a friend",
+        "Drink a glass of water",
+        "Open a window",
+        "Listen to one song you like"
+      ],
+      "prompt": "When we're feeling low, we often withdraw. This can make us feel worse.\n\nCan you do ONE small thing today? Even tiny:\n- Take a 5-minute walk\n- Message a friend\n- Drink a glass of water\n- Open a window\n- Listen to one song you like\n\nWhat's one small thing you might try?"
+    },
+    "worry_time": {
+      "name": "CBT Worry Time",
+      "description": "Schedule worry for later",
+      "prompt": "If worry is overwhelming, let's schedule it:\n\n'I'll set aside 10 minutes at 3pm to worry about this.\nUntil then, if the thought comes up, I'll tell it: Not now.'\n\nDoes having a worry time help you feel more in control?"
+    }
+  },
+  "act_techniques": {
+    "defusion": {
+      "name": "ACT Defusion",
+      "description": "Create space between you and the thought",
+      "prompt": "Instead of saying 'I AM anxious', try saying 'I'm HAVING a thought that I'm anxious.'\n\nThis creates space between you and the thought.\n\nCan you try: 'I'm noticing I'm having a thought that...'"
+    },
+    "values_clarification": {
+      "name": "ACT Values Clarification",
+      "categories": [
+        "Work/Achievement",
+        "Family/Relationships",
+        "Creativity",
+        "Health/Growth",
+        "Community/Helping Others"
+      ],
+      "prompt": "What matters to you deep down? When life feels meaningful, what are you doing?\n\n💼 Work/achievement?\n👨‍👩‍👧‍👦 Family/relationships?\n🎨 Creativity?\n💪 Health/growth?\n🌍 Community/helping others?\n\nSometimes connecting to what matters can guide us forward. What feels important to you right now?"
+    },
+    "willingness": {
+      "name": "ACT Willingness",
+      "description": "Accept feelings while doing what matters",
+      "prompt": "Painful feelings are part of being human. We can't control them directly, but we can choose what we do WITH them.\n\nInstead of fighting the feeling, can you let it be there while you still do what matters to you? Like carrying a heavy backpack - it's there, but you can still walk.\n\nWhat's one small step toward what matters, even with this feeling present?"
+    }
+  },
+  "dbt_techniques": {
+    "stop_skill": {
+      "name": "DBT STOP Skill",
+      "steps": [
+        "Stop what you're doing",
+        "Observe what's happening inside you",
+        "Take a step back mentally",
+        "Proceed mindfully"
+      ],
+      "prompt": "When you feel overwhelmed, remember STOP:\n\n🛑 S - Stop what you're doing\n👀 O - Observe what's happening inside you\n🧠 T - Take a step back\n➡️ P - Proceed mindfully\n\nCan you pause for 30 seconds and just observe what's happening right now?\nNo fixing. Just noticing. What do you observe?"
+    },
+    "radical_acceptance": {
+      "name": "DBT Radical Acceptance",
+      "description": "Acknowledge reality without liking it",
+      "prompt": "Sometimes fighting reality makes it worse. Radical acceptance isn't LIKING what happened.\n\nIt's ACKNOWLEDGING: 'This IS happening. It's painful. And I CANNOT change the past.'\n\nFrom this place of acceptance, we can choose what to do next.\n\nWhat would accepting that 'this is happening' feel like for you?\nNot giving up. Just acknowledging reality so you can move forward."
+    },
+    "opposite_action": {
+      "name": "DBT Opposite Action",
+      "description": "Take opposite action when emotion doesn't fit facts",
+      "examples": [
+        "Angry but no real threat? → Be kind to yourself",
+        "Sad but no actual loss? → Engage in pleasant activity",
+        "Anxious but no danger? → Approach, don't avoid",
+        "Ashamed but you made a mistake? → Talk about it with someone"
+      ],
+      "prompt": "When your emotion doesn't fit the facts, try taking opposite action:\n\n😠 Angry but no real threat? → Be kind to yourself\n😢 Sad but no actual loss? → Engage in pleasant activity\n😨 Anxious but no danger? → Approach, don't avoid\n😤 Ashamed but you made a mistake? → Talk about it with someone\n\nWhat emotion are you feeling right now? And what would be the opposite action be?"
+    },
+    "please_skills": {
+      "name": "DBT PLEASE Skills",
+      "description": "Self-care checklist",
+      "steps": [
+        "Treat Physical Illness",
+        "Eat regularly",
+        "Sleep adequately",
+        "Exercise lightly",
+        "Avoid mood-altering substances",
+        "Self-care (shower, rest, comfort)"
+      ],
+      "prompt": "When you're struggling, check PLEASE:\n\n🍎 PL - Treat Physical Illness (if sick, don't push hard)\n🥘 E - Eat regularly\n😴 S - Sleep adequately\n🏃 E - Exercise lightly\n😊 E - Avoid mood-altering substances\n😌 E - Self-care (shower, rest, comfort)\n\nWhat's one PLEASE need you could address right now?"
+    }
+  }
+}

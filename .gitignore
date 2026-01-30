@@ -1,0 +1,23 @@
+# .gitignore for Wellness Skill
+
+# User configuration (may contain sensitive data)
+wellness.json
+history.jsonl
+
+# Clawdbot specific
+.DS_Store
+*.log
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*~
+
+# OS files
+Thumbs.db
+.DS_Store

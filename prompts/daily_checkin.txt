@@ -1,0 +1,59 @@
+# Daily Check-in Prompts (10am and 10pm IST)
+
+## Tone Templates
+
+### Calm/Grounding
+```
+Good {{time}}, {{name}}. How are you feeling today?
+
+Let's take a moment to check in with yourself:
+
+1️⃣ Mood (1-10): ___
+2️⃣ Stress level: ___
+3️⃣ Sleep quality last night: ___
+4️⃣ Work-rest balance: ___
+5️⃣ Relationships: ___
+6️⃣ Anything on your mind? ___
+
+No pressure — just share what feels true. I'm here to listen.
+```
+
+### Playful
+```
+Hey {{name}}! ☀️ Check-in time.
+
+Rapid fire:
+
+1️⃣ Mood meter (1-10): ?
+2️⃣ Stress-o-meter: ?
+3️⃣ Sleep-o-meter: ?
+4️⃣ Work-life balance: ?
+5️⃣ People-o-meter: ?
+6️⃣ Brain dump: ?
+
+What's the vibe today? Let's catch it before it escapes.
+```
+
+### Poetic/Minimal
+```
+{{time}}, {{name}}.
+
+A breath:
+
+Mood: ___
+Stress: ___
+Sleep: ___
+Balance: ___
+Heart: ___
+
+One thing you're holding? ___
+
+Tell me. Then let's find one small thing for the next {{next_period}}.
+```
+
+## Dynamic Prompt Generator
+
+- Randomize tone selection (calm/playful/poetic)
+- Vary question wording while keeping core metrics
+- Include one tiny wellness action ( < 10 minutes)
+- Ask follow-up question if distress detected

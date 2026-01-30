@@ -1,0 +1,114 @@
+# Weekly Summary Prompt (Sundays 9am IST)
+
+## Template
+
+```
+{{name}}, here's your wellness week.
+
+---
+
+### Mood Curve
+
+{{mood_summary}}
+
+{{mood_trend}}
+
+---
+
+### Stress Patterns
+
+{{stress_summary}}
+
+{{stress_triggers}}
+
+---
+
+### Sleep Analysis
+
+{{sleep_summary}}
+
+{{sleep_mood_correlation}}
+
+---
+
+### Work-Rest Balance
+
+{{work_rest_summary}}
+
+{{work_rest_recommendation}}
+
+---
+
+### Relationships
+
+{{relationship_summary}}
+
+---
+
+### What I Learned About You
+
+{{patterns_detected}}
+
+{{coaching_insight}}
+
+---
+
+### What I'm Doing Differently Next Week
+
+{{my_adjustments}}
+
+---
+
+### Tiny Action for This Week
+
+{{weekly_action}}
+
+---
+
+Remember: Patterns aren't judgments — they're data. What matters is what you do with it.
+
+You matter, and I'm with you through it all.
+```
+
+## Sections to Generate
+
+### Mood Curve
+- Average mood score
+- Highest/lowest days
+- Upward/downward trends
+- 3-day drops (if any)
+
+### Stress Patterns
+- Peak stress days/times
+- Common stressors
+- Stress-mood correlation
+
+### Sleep Analysis
+- Average sleep quality
+- Poor sleep → next day stress
+- Sleep consistency
+
+### Work-Rest Balance
+- "Tilted work" days count
+- Rest days count
+- Workaholic pattern flag
+- Concrete schedule adjustments recommended
+
+### Relationships
+- Positive/negative mentions
+- Distress patterns
+- Connection quality
+
+### What I Learned About You
+- Patterns I detected (loops, triggers, correlations)
+- Things that help you
+- Things that don't help
+
+### What I'm Doing Differently
+- How I'm adjusting check-in times
+- New techniques I'll try
+- Better questions I'll ask
+
+### Tiny Action
+- One small, concrete thing (<10 minutes)
+- Specific and actionable

@@ -1,0 +1,93 @@
+{
+  "name": "Wellness Companion",
+  "version": "1.0",
+  "description": "Best-in-class AI wellness companion with crisis intervention, CBT/ACT/DBT coaching, and pattern tracking",
+  "config_template": {
+    "user_name": "Your Name",
+    "timezone": "Asia/Kolkata",
+    "check_in_times": ["10:00", "22:00"],
+    "weekly_summary_time": "Sunday 09:00",
+    "weekly_summary_day": 0,
+    "tones": ["calm", "playful", "poetic"],
+    "all_tones": true,
+    "crisis_contacts": {
+      "primary": {
+        "name": "Trusted Contact Name",
+        "contact": "+91XXXXXXXXXX"
+      },
+      "emergency": {
+        "police": "100",
+        "ambulance": "108",
+        "fire": "101"
+      }
+    },
+    "track_metrics": [
+      "mood",
+      "stress_level",
+      "sleep_quality",
+      "work_rest_balance",
+      "relationships",
+      "thoughts_concerns"
+    ],
+    "channel": "whatsapp",
+    "phone_number": "+91XXXXXXXXXX"
+  },
+  "resources": {
+    "emergency": {
+      "police": "100",
+      "ambulance": "108",
+      "fire": "101"
+    },
+    "helplines": {
+      "icall": "9152987821",
+      "aasra": "+91-9820466726",
+      "vandrevala": "1860-266-2345",
+      "fortis": "+91-8376804102",
+      "sneha": "+91-44-24640050",
+      "kiran": "1800-599-0019",
+      "nimhans": "+91-9821466222",
+      "vidyasagar": "9152987821"
+    },
+    "online_therapy": {
+      "manasthali": "manasthali.com",
+      "yourdost": "yourdost.com",
+      "mindpeers": "mindpeers.co.in",
+      "epsyclinic": "epsyclinic.com"
+    }
+  },
+  "escalation": {
+    "high_risk_keywords": [
+      "suicide", "kill myself", "die", "end it all",
+      "hurt myself", "self-harm", "cut", "cutting",
+      "no reason to live", "better off without me", "nothing matters",
+      "goodbye forever", "final message", "no point"
+    ],
+    "medium_risk_keywords": [
+      "can't cope", "can't take it", "overwhelmed",
+      "hopeless", "no way out", "stuck", "tired of everything",
+      "sleeping all day", "not sleeping"
+    ],
+    "actions": {
+      "high_risk": "immediate_escalation",
+      "medium_risk": "resource_provision",
+      "pattern_detected": "coaching_intervention"
+    }
+  },
+  "techniques": {
+    "grounding": {
+      "name": "5-4-3-2-1",
+      "description": "Five sensory grounding exercise",
+      "prompt": "Let's name 5 things you see, 4 you hear, 3 you touch, 2 you smell, 1 you taste."
+    },
+    "breathing": {
+      "name": "box_breathing",
+      "description": "4-7-8 breathing technique",
+      "prompt": "IN for 4 counts... Hold for 4 counts... OUT for 4 counts... Hold for 4 counts."
+    },
+    "defusion": {
+      "name": "act_defusion",
+      "description": "ACT defusion technique",
+      "prompt": "Instead of 'I AM anxious', try saying 'I'm HAVING a thought that I'm anxious.'"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+# Crisis Message Templates
+
+## High Risk (Immediate Danger)
+```
+🚨 IMPORTANT: I'm concerned about your safety.
+
+I hear that you're thinking about ending your life, and I want you to know
+that you don't have to go through this alone. There are people who want to
+help you right now.
+
+Please call one of these 24/7 helplines:
+
+📞 iCall: 9152987821
+📞 AASRA: +91-9820466726
+📞 Vandrevala Foundation: 1860-266-2345
+📞 Kiran (Govt): 1800-599-0019
+
+🚨 EMERGENCY: Police 100 / Ambulance 108
+
+Or if you can, go to your nearest emergency room immediately.
+
+You matter, and help is available. Please reach out to one of these resources.
+```
+
+## Medium Risk ("Can't Cope", Overwhelmed)
+```
+I hear how overwhelming things feel right now. It makes sense that you're
+exhausted - you've been carrying a lot.
+
+You don't have to figure this out alone. Let me share some resources:
+
+📞 Free 24/7 Helplines:
+• iCall (Tata Institute): 9152987821
+• AASRA: +91-9820466726
+• Kiran (Govt): 1800-599-0019
+
+💻 Online Support:
+• YourDOST: yourdost.com
+• Manasthali: manasthali.com
+
+Would you like me to help you think through one small step you could take
+right now? Even a tiny step can help.
+```
+
+## Validation + Grounding (Distress, Not Immediate Crisis)
+```
+I hear how hard this is for you right now. It's completely understandable
+that you feel this way given everything you're going through.
+
+While we talk, would you like to try a quick grounding exercise together?
+
+📦 Let's do 3 box breaths:
+- IN for 4 counts... Hold for 4 counts... OUT for 4 counts... Hold for 4 counts
+
+I'll count with you. Ready? One... Two... Three...
+
+You're doing it. This will pass.
+```
+
+## Transition to Professional Help
+```
+Talking here can help, but sometimes we need more support than I can provide.
+
+That's not a weakness - it's like seeing a doctor when you have a fever.
+Some things need professional care.
+
+Would you be open to:
+• Talking to a therapist online? (I can share platforms)
+• Calling a helpline to talk with a counselor?
+• Speaking with someone you trust about what you're going through?
+
+You deserve support that can really help. What feels possible for you right now?
+```
+
+## Periodic Safety Reminder
+```
+Just a gentle reminder: I'm here to support you, but I'm an AI, not a mental
+health professional. If you're feeling overwhelmed or need more support than
+I can provide, please reach out to one of these resources:
+
+📞 iCall: 9152987821
+📞 AASRA: +91-9820466726
+📞 Kiran: 1800-599-0019
+
+Or speak with a mental health professional. You deserve real human support. 💙
+```
